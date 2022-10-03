@@ -1,4 +1,6 @@
 this is version 1 of my project
 put this in commit 2
-my file is chnaged
+hello
+this is changed again
+
 
